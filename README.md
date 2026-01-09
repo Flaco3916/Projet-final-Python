@@ -11,25 +11,24 @@ L’accent est mis sur la **qualité des données**, la **traçabilité des trai
 
 Mini_python_project
 
-data/
-│   ├── raw/                            # Données brutes 
-│   └── processed/                      # Données nettoyées 
-notebooks/
-│   ├── 00_main_execution.ipynb         
-│   ├── 01_data_audit.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_ICP.ipynb
-│   └── 04_merge.ipynb
-reports/
-results/
-│   └── tables/
-.gitignore
-requirements.txt
-readme.md
+- data/
+- │   ├── raw/                            # Données brutes 
+- │   └── processed/                      # Données nettoyées 
+- notebooks/
+- │   ├── 00_main_execution.ipynb         
+- │   ├── 01_data_audit.ipynb
+- │   ├── 02_data_cleaning.ipynb
+- │   ├── 03_ICP.ipynb
+- │   └── 04_merge.ipynb
+- reports/
+- results/
+- │   └── tables/
+- .gitignore
+- requirements.txt
+- readme.md
 
 
 
----
 
 ##  Description des données
 
@@ -107,9 +106,9 @@ Ce notebook appelle logiquement l’ensemble des étapes du projet.
 
 
 ## Auteurs
-**Jean Michel Ralph MANY**
-**Lovenson JEUDINOR** 
-**Frantzdy DORIlUS**  
+- **Jean Michel Ralph MANY**
+- **Lovenson JEUDINOR** 
+- **Frantzdy DORIlUS**  
 
 Projet réalisé dans le cadre d’un exercice académique d’analyse de données avec Python.
 
