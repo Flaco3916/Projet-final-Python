@@ -1,7 +1,7 @@
 customer_id,age,gender,city,segment,signup_date
 C0001,28.0,M,Gonaïves,Entreprise,2025-09-26
 C0002,16.0,M,Gonaïves,Professionnel,2024-01-19
-C0003,,M,Saint-Marc,Indépendant,2024-05-05
+C0003,28.851626016260163,M,Saint-Marc,Indépendant,2024-05-05
 C0004,46.0,F,Port-au-Prince,Professionnel,2024-11-16
 C0005,19.0,M,Cap-Haïtien,Professionnel,2024-11-21
 C0006,20.0,M,Port-au-Prince,Entreprise,2023-11-04
@@ -19,10 +19,10 @@ C0017,26.0,F,Cap-Haïtien,Professionnel,2024-09-10
 C0018,28.0,M,Les Cayes,Indépendant,2025-08-22
 C0019,18.0,Unknown,Saint-Marc,Étudiant,2023-11-21
 C0020,27.0,F,Les Cayes,Entreprise,2024-11-05
-C0021,,F,Fort-Liberté,Étudiant,2024-09-21
+C0021,28.851626016260163,F,Fort-Liberté,Étudiant,2024-09-21
 C0022,31.0,F,Saint-Marc,Étudiant,2025-01-16
 C0023,25.0,Unknown,Cap-Haïtien,Professionnel,2025-07-04
-C0024,,F,Cap-Haïtien,Indépendant,2023-09-03
+C0024,28.851626016260163,F,Cap-Haïtien,Indépendant,2023-09-03
 C0025,37.0,F,Cap-Haïtien,Étudiant,2024-01-12
 C0026,30.0,F,Port-au-Prince,Professionnel,2024-05-15
 C0027,32.0,F,Port-au-Prince,Étudiant,2024-12-18
@@ -36,7 +36,7 @@ C0034,42.0,F,Paris,Professionnel,2024-08-03
 C0035,32.0,F,Dakar,Professionnel,2023-10-08
 C0036,23.0,M,Hinche,Étudiant,2025-10-19
 C0037,20.0,F,Fort-Liberté,Professionnel,2023-11-04
-C0038,,M,Port-au-Prince,Professionnel,2023-12-02
+C0038,28.851626016260163,M,Port-au-Prince,Professionnel,2023-12-02
 C0039,31.0,Autre,Abidjan,Étudiant,2025-04-10
 C0040,33.0,F,Gonaïves,Étudiant,2024-05-26
 C0041,16.0,F,Dakar,Professionnel,2025-07-20
@@ -304,7 +304,7 @@ C0302,31.0,Unknown,Saint-Marc,Étudiant,2023-12-03
 C0303,28.0,M,Paris,Indépendant,2025-12-07
 C0304,27.0,M,Port-au-Prince,Professionnel,2023-10-01
 C0305,28.0,F,Port-au-Prince,Professionnel,2024-08-14
-C0306,,M,Montréal,Indépendant,2025-08-11
+C0306,28.851626016260163,M,Montréal,Indépendant,2025-08-11
 C0307,21.0,M,Paris,Étudiant,2025-03-19
 C0308,35.0,M,Kinshasa,Étudiant,2024-08-04
 C0309,34.0,F,Paris,Étudiant,2025-03-06
@@ -337,7 +337,7 @@ C0335,17.0,M,Port-au-Prince,Entreprise,2024-10-27
 C0336,40.0,F,Abidjan,Entreprise,2023-12-19
 C0337,39.0,F,Port-au-Prince,Indépendant,2023-08-02
 C0338,27.0,Autre,Gonaïves,Étudiant,2025-03-05
-C0339,,F,Gonaïves,Étudiant,2025-06-16
+C0339,28.851626016260163,F,Gonaïves,Étudiant,2025-06-16
 C0340,16.0,F,Port-au-Prince,Professionnel,2023-08-11
 C0341,20.0,F,Montréal,Professionnel,2024-05-23
 C0342,27.0,M,Unknown,Étudiant,2025-03-29
@@ -360,7 +360,7 @@ C0358,31.0,M,Port-au-Prince,Étudiant,2023-10-05
 C0359,16.0,Autre,Gonaïves,Étudiant,2025-09-25
 C0360,33.0,Autre,Les Cayes,Étudiant,2024-02-11
 C0361,24.0,M,Paris,Entreprise,2023-11-15
-C0362,,F,Jérémie,Indépendant,2023-10-06
+C0362,28.851626016260163,F,Jérémie,Indépendant,2023-10-06
 C0363,24.0,M,Santo Domingo,Indépendant,2025-05-28
 C0364,24.0,Autre,Kinshasa,Professionnel,2023-10-03
 C0365,33.0,F,Gonaïves,Professionnel,2025-09-02
@@ -449,7 +449,7 @@ C0447,41.0,M,Hinche,Indépendant,2025-03-08
 C0448,25.0,M,Fort-Liberté,Indépendant,2023-08-08
 C0449,26.0,F,Paris,Étudiant,2024-09-03
 C0450,32.0,F,Port-au-Prince,Professionnel,2025-04-02
-C0451,,F,Port-au-Prince,Professionnel,2023-08-04
+C0451,28.851626016260163,F,Port-au-Prince,Professionnel,2023-08-04
 C0452,37.0,M,Santo Domingo,Professionnel,2023-09-05
 C0453,16.0,M,Saint-Marc,Étudiant,2024-09-22
 C0454,22.0,F,Les Cayes,Indépendant,2025-11-23
