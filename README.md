@@ -105,10 +105,8 @@ Pour reproduire l’analyse complète, exécuter le notebook : notebooks/00_main
 Ce notebook appelle logiquement l’ensemble des étapes du projet.
 
 
-## Auteurs
-- **Jean Michel Ralph MANY**
-- **Lovenson JEUDINOR** 
-- **Frantzdy DORIlUS**  
+## Auteur
+- **Lovenson JEUDINOR**  
 
 Projet réalisé dans le cadre d’un exercice académique d’analyse de données avec Python.
 
